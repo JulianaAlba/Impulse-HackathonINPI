@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Impulse">
-        <activity android:name=".Simulado"></activity>
+        <activity android:name=".CadastroAreaDeCompatibilidade"></activity>
+        <activity android:name=".Simulado" />
         <activity android:name=".Audio" />
         <activity android:name=".Video" />
         <activity android:name=".Feed" />

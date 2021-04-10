@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CadastroAreaDeCompatibilidade">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="#0C326F"
+                android:fontFamily="@font/radley"
+                android:text="Responda ao questionário, para saber se você tem perfil de empreendedor e qual é o tipo. Baseado nessas informações, você saberá qual a Área do INPI, seu perfil tem maior compatibilidade"
+                android:textAlignment="gravity"
+                android:textColor="@color/white"
+                android:textSize="17sp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="20sp"
+                android:layout_weight="1" />
+
+            <TextView
+                android:id="@+id/textView18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@color/white"
+                android:fontFamily="@font/radley"
+                android:text="Quando você pensa em um negócio, qual a primeira coisa que vem a sua cabeça?"
+                android:textAlignment="center"
+                android:textColor="@color/primarydarken01"
+                android:textSize="16sp" />
+
+            <RadioGroup
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <RadioButton
+                    android:id="@+id/rb1a"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Melhorar o mundo" />
+
+                <RadioButton
+                    android:id="@+id/rb1b"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Seguir um modelo consolidado" />
+
+                <RadioButton
+                    android:id="@+id/rb1c"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Desenvolver algo completamente novo" />
+
+                <RadioButton
+                    android:id="@+id/rb1d"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Agradar pessoas" />
+
+                <RadioButton
+                    android:id="@+id/rb1e"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Lançar uma tendência" />
+            </RadioGroup>
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="20sp"
+                android:layout_weight="1" />
+
+            <TextView
+                android:id="@+id/textView19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@color/white"
+                android:fontFamily="@font/radley"
+                android:text="Que impacto você deseja causar no mundo?"
+                android:textAlignment="center"
+                android:textColor="@color/primarydarken01"
+                android:textSize="16sp" />
+
+            <RadioGroup
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <RadioButton
+                    android:id="@+id/rb2a"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Quero que as pessoas vivam com qualidade" />
+
+                <RadioButton
+                    android:id="@+id/rb2b"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Quero um mundo justo e coerente" />
+
+                <RadioButton
+                    android:id="@+id/rb2c"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Quero transformá-lo" />
+
+                <RadioButton
+                    android:id="@+id/rb2d"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Quero que todos sejam felizes" />
+
+                <RadioButton
+                    android:id="@+id/rb2e"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Vou deixar todos maravilhados em 10 anos" />
+            </RadioGroup>
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="20sp"
+                android:layout_weight="1" />
+
+            <TextView
+                android:id="@+id/textView20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@color/white"
+                android:fontFamily="@font/radley"
+                android:text="Quando se trata de tirar uma ideia do papel, o que você faz?"
+                android:textAlignment="center"
+                android:textColor="@color/primarydarken01"
+                android:textSize="16sp" />
+
+
+
+            <RadioGroup
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <RadioButton
+                    android:id="@+id/rb3a"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Procuro profissionais para me ajudar" />
+
+                <RadioButton
+                    android:id="@+id/rb3b"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Estudo antes de tomar decisões" />
+
+                <RadioButton
+                    android:id="@+id/rb3c"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Encontro uma maneira mais criativa de colocá-la em prática" />
+
+                <RadioButton
+                    android:id="@+id/rb3d"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Divulgo com fogos e champagne" />
+
+                <RadioButton
+                    android:id="@+id/rb3e"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Espero mais um pouco para ter certeza" />
+            </RadioGroup>
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_weight="1" />
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal">
+
+                <Space
+                    android:layout_width="50sp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+                <Button
+                    android:id="@+id/bGuardar"
+                    android:layout_width="300sp"
+                    android:layout_height="wrap_content"
+                    android:text="Guardar" />
+
+                <Space
+                    android:layout_width="50sp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
