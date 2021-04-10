@@ -67,15 +67,67 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:orientation="horizontal">
+                android:orientation="vertical">
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="20sp"
+                    android:layout_weight="1" />
 
                 <TextView
-                    android:id="@+id/textView5"
-                    android:layout_width="wrap_content"
+                    android:id="@+id/textView7"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="AUDIO"
-                    android:textSize="30sp" />
+                    android:fontFamily="@font/radley"
+                    android:text="Ouça podcasts de especialistas"
+                    android:textAlignment="center"
+                    android:textColor="@color/primarydarken01"
+                    android:textSize="20sp" />
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="20sp"
+                    android:layout_weight="1" />
+
+                <ImageButton
+                    android:id="@+id/audio1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="#FFFFFF"
+                    app:srcCompat="@drawable/audio1" />
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="20sp"
+                    android:layout_weight="1" />
+
+                <ImageButton
+                    android:id="@+id/audio2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="#FFFFFF"
+                    app:srcCompat="@drawable/audio2" />
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="20sp"
+                    android:layout_weight="1" />
+
+                <ImageButton
+                    android:id="@+id/audio3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="#FFFFFF"
+                    app:srcCompat="@drawable/audio3" />
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="20sp"
+                    android:layout_weight="1" />
             </LinearLayout>
 
         </LinearLayout>
