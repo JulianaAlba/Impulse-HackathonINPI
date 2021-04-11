@@ -148,6 +148,24 @@
                     android:background="#FFFFFF"
                     app:srcCompat="@drawable/simulado2" />
 
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="20sp"
+                    android:layout_weight="1" />
+
+                <ImageButton
+                    android:id="@+id/imageButton8"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="#FFFFFF"
+                    app:srcCompat="@drawable/quizz3" />
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="20sp"
+                    android:layout_weight="1" />
+
             </LinearLayout>
 
         </LinearLayout>
