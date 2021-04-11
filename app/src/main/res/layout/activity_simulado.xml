@@ -80,7 +80,7 @@
                     android:layout_weight="1" />
 
                 <ImageButton
-                    android:id="@+id/imageButton9"
+                    android:id="@+id/btiranking"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -88,8 +88,8 @@
                     app:srcCompat="@drawable/graph_40" />
 
                 <Button
-                    android:id="@+id/button"
-                    android:layout_width="120dp"
+                    android:id="@+id/btranking"
+                    android:layout_width="150dp"
                     android:layout_height="40dp"
                     android:layout_weight="1"
                     android:background="#0C326F"
@@ -128,7 +128,7 @@
                     android:layout_weight="1" />
 
                 <ImageButton
-                    android:id="@+id/imageButton5"
+                    android:id="@+id/btsimulado1"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -141,7 +141,7 @@
                     android:layout_weight="1" />
 
                 <ImageButton
-                    android:id="@+id/imageButton8"
+                    android:id="@+id/btsimulado2"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
