@@ -6,4 +6,214 @@
     android:layout_height="match_parent"
     tools:context=".QuestoesSimulado">
 
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="#0C326F"
+                android:fontFamily="@font/radley"
+                android:text="QUIZZ: 4 passos para regularizar sua marca e empreender com responsabilidade no Brasil"
+                android:textAlignment="gravity"
+                android:textColor="@color/white"
+                android:textSize="17sp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="20sp"
+                android:layout_weight="1" />
+
+            <TextView
+                android:id="@+id/textView18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@color/white"
+                android:fontFamily="@font/radley"
+                android:text="São registráveis como marca:"
+                android:textAlignment="center"
+                android:textColor="@color/primarydarken01"
+                android:textSize="16sp" />
+
+            <RadioGroup
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <RadioButton
+                    android:id="@+id/rb1aq"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="letra, algarismo e data, ainda que isoladamente, quando revestidos
+de suficiente forma distintiva." />
+
+                <RadioButton
+                    android:id="@+id/rb1bq"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="designação ou sigla de entidade ou órgão público, quando não requerido o registro pela própria entidade ou órgão público." />
+
+                <RadioButton
+                    android:id="@+id/rb1cq"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="bandeira pública ou oficial, nacional, estrangeira ou internacional,
+bem como a respectiva designação, figura ou imitação" />
+
+                <RadioButton
+                    android:id="@+id/rb1dq"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="sinais ou expressões empregados apenas como meio de propaganda." />
+
+
+            </RadioGroup>
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="20sp"
+                android:layout_weight="1" />
+
+            <TextView
+                android:id="@+id/textView19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@color/white"
+                android:fontFamily="@font/radley"
+                android:text="São direitos e/ou deveres do titular de uma marca registrada,
+exceto:"
+                android:textAlignment="center"
+                android:textColor="@color/primarydarken01"
+                android:textSize="16sp" />
+
+            <RadioGroup
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <RadioButton
+                    android:id="@+id/rb2aq"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Utilizar a marca registrada com exclusividade em todo território
+nacional." />
+
+                <RadioButton
+                    android:id="@+id/rb2bq"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Impedir que comerciantes ou distribuidores utilizem sinais distintivos que lhes são próprios, juntamente com a marca do produto, na sua promoção e comercialização." />
+
+                <RadioButton
+                    android:id="@+id/rb2cq"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Ceder o registro ou pedido de registro, assim como licenciar o uso
+da marca." />
+
+                <RadioButton
+                    android:id="@+id/rb2dq"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Zelar pela sua integridade material ou reputação e prorrogar a vigência do registro." />
+
+
+            </RadioGroup>
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="20sp"
+                android:layout_weight="1" />
+
+            <TextView
+                android:id="@+id/textView20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@color/white"
+                android:fontFamily="@font/radley"
+                android:text="Não é crime contra as marcas:"
+                android:textAlignment="center"
+                android:textColor="@color/primarydarken01"
+                android:textSize="16sp" />
+
+
+
+            <RadioGroup
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <RadioButton
+                    android:id="@+id/rb3aq"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Fabricar acessórios que utilizem marca registrada de outrem para
+indicar sua destinação, obedecendo as práticas leais de concorrência." />
+
+                <RadioButton
+                    android:id="@+id/rb3bq"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Reproduzir, sem autorização do titular, no todo ou em parte, marca registrada, ou imitá-la de modo que possa induzir confusão." />
+
+                <RadioButton
+                    android:id="@+id/rb3cq"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Importar, exportar, vender, oferecer ou expor à venda, ocultar ou
+ter em estoque produto assinalado com marca, de outrem, ilicitamente reproduzida ou imitada." />
+
+                <RadioButton
+                    android:id="@+id/rb3dq"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Expor ou oferecer à venda produtos, reproduzir ou imitar, de
+modo que possa induzir em erro ou confusão, armas, brasões ou
+distintivos oficiais nacionais, estrangeiros ou internacionais, sem
+a necessária autorização." />
+
+
+            </RadioGroup>
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_weight="1" />
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal">
+
+                <Space
+                    android:layout_width="50sp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+                <Button
+                    android:id="@+id/bEnviar"
+                    android:layout_width="300sp"
+                    android:layout_height="wrap_content"
+                    android:text="Enviar" />
+
+                <Space
+                    android:layout_width="50sp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>
