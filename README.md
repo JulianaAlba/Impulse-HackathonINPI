@@ -1,6 +1,13 @@
 # IMPULSE
 
-O Aplicativo trata-se de uma plataforma educacional para jovens com gamificação (publicações e interações / cursos através de vídeos e áudios / simulados e ranking). O aplicativo traz um mecanismo diferenciado em seu cadastro, que é a análise inteligente das respostas dada pelo usuário no momento do cadastro, traçando assim o perfil e indicando conteúdos de forma mais assertiva, baseado na Área de maior Compatibilidade (Patentes, Programas de Computador, Topografia de Circuitos, Marcas, Desenhos Industriais, Indicações Geográficas e Contratos). O aplicativo também gera uma maior visibilidade para o top 3 no ranking, no intuito de gerar recompensas, fazendo com que os jovens se mantenham engajados a aprenderem cada vez mais e trazerem mais jovens para conhecerem a plataforma.
+Impulse é um aplicativo feito por jovens e para jovens!
+
+Tem como missão descomplicar o empreendedorismo por meio do acesso a informações educativas sobre Propriedade Intelectual. Tudo isso feito em parceria com quem entende do assunto, o INPI!
+
+Mas como funcionará? O jovem ou micro e pequeno empreendedor fará seu cadastro, ao entrar terá a possibilidade de responder diversas perguntas para que o aplicativo faça com que seu perfil receba os materiais mais indicados para sua área de maior compatibilidade: Patentes, Programas de Computador, Topografia de Circuitos, Marcas, Desenhos Industriais, Indicações Geográficas e Contratos. Os usuários poderão interagir e discutir sobre inovação e empreendedorismo por um feed para troca de experiências e por meio da comunidade mentorada por funcionários do INPI. Além disso, terão acesso a cursos em formatos de vídeos e podcasts que os auxiliarão no seu crescimento profissional e no processo de registro junto a INPI. Também poderá fazer diversos quizzes com temáticas ligadas aos assuntos da Impulse, quanto mais jogar, mais o usuário vai ganhar, tanto em conhecimento como em benefícios propostos pelo próprio INPI, como, por exemplo, agilidade no processo de registro para os melhores pontuados ou até mesmo descontos financeiros.
+Vem impulsionar o desenvolvimento científico e tecnológico no Brasil!
+
+O aplicativo estará em conformidade com a Lei Geral de Proteção de Dados 13.709/2018 (LGPD)!
 
 ![](Imagens/impulse.jpeg)
 ![](Imagens/final.jpeg)
