@@ -2,9 +2,9 @@
 
 Impulse é um aplicativo feito por jovens e para jovens!
 
-Tem como missão descomplicar o empreendedorismo por meio do acesso a informações educativas sobre Propriedade Intelectual. Tudo isso feito em parceria com quem entende do assunto, o INPI!
+Tem como missão descomplicar o empreendedorismo por meio do acesso a informações educativas sobre Propriedade Industrial e Intelectual. Tudo isso feito em parceria com quem entende do assunto, o Instituto Nacional da Propriedade Industrial (INPI)!
 
-Mas como funcionará? O jovem ou micro e pequeno empreendedor fará seu cadastro, ao entrar terá a possibilidade de responder diversas perguntas para que o aplicativo faça com que seu perfil receba os materiais mais indicados para sua área de maior compatibilidade: Patentes, Programas de Computador, Topografia de Circuitos, Marcas, Desenhos Industriais, Indicações Geográficas e Contratos. Os usuários poderão interagir e discutir sobre inovação e empreendedorismo por um feed para troca de experiências e por meio da comunidade mentorada por funcionários do INPI. Além disso, terão acesso a cursos em formatos de vídeos e podcasts que os auxiliarão no seu crescimento profissional e no processo de registro junto a INPI. Também poderá fazer diversos quizzes com temáticas ligadas aos assuntos da Impulse, quanto mais jogar, mais o usuário vai ganhar, tanto em conhecimento como em benefícios propostos pelo próprio INPI, como, por exemplo, agilidade no processo de registro para os melhores pontuados ou até mesmo descontos financeiros.
+Mas como funcionará? O jovem ou micro e pequeno empreendedor fará seu cadastro, ao entrar terá a possibilidade de responder diversas perguntas para que o aplicativo faça com que seu perfil receba os materiais mais indicados para sua área de maior compatibilidade: Patentes, Programas de Computador, Topografia de Circuitos, Marcas, Desenhos Industriais, Indicações Geográficas e Contratos. Os usuários poderão interagir e discutir sobre inovação e empreendedorismo por um feed para troca de experiências e por meio da comunidade mentorada por funcionários do INPI. Além disso, terão acesso a cursos em formatos de vídeos e podcasts que os auxiliarão no seu crescimento profissional e no processo de registro junto ao INPI. Também poderá fazer diversos quizzes com temáticas ligadas aos assuntos da Impulse, quanto mais jogar, mais o usuário vai ganhar, tanto em conhecimento como em benefícios propostos pelo próprio INPI, como, por exemplo, agilidade no processo de registro para os melhores pontuados ou até mesmo descontos financeiros.
 Vem impulsionar o desenvolvimento científico e tecnológico no Brasil!
 
 O aplicativo estará em conformidade com a Lei Geral de Proteção de Dados 13.709/2018 (LGPD)!
@@ -71,8 +71,7 @@ Responsável pelo UX/UI
 
 ### Ressalva
 
-O aplicativo trata-se de um protótipo com o desenvolvimento front-end, parcialmente com imagens compostas, para ser viável a entrega do produto em tempo hábil, atendendo também a preferência da linguagem solicitada. Implementação back-end apenas em sua navegabilidade, devido a mão de obra quantitativa de desenvolvedores na solução. O protótipo foi desenvolvido para atender a apresentação de funcionalidades da ideia planejada pelo time.
-
+O aplicativo Impulse trata-se de um protótipo criado durante o hackathon do INPI, e conta majoritariamente com o desenvolvimento front-end, devido ao tempo demandado para sua idealização, análise e codificação. O protótipo foi desenvolvido para atender a apresentação de funcionalidades da ideia planejada pelo time. O protótipo disponibilizado aqui é navegável e parcialmente funcional, devido a mão de obra quantitativa de desenvolvedores na solução. No entanto, apresenta potencial para ser codificado e implementado em nosso país!
 
 
 ### Material de inspiração para as perguntas dos simulados
