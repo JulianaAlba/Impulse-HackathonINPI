@@ -37,7 +37,7 @@ O aplicativo estará em conformidade com a Lei Geral de Proteção de Dados 13.7
 
 
 
-### Download do Aplicativo Impulse
+### Clicando na imagem abaixo, é possível realizar o Download do Aplicativo Impulse
 
 [![](Imagens/logoapk.jpeg)](https://github.com/JulianaAlba/HackathonINPI/blob/master/APK/app-debug.apk?raw=true)
 
@@ -83,5 +83,19 @@ O aplicativo Impulse trata-se de um protótipo criado durante o hackathon do INP
 ### Material de inspiração para as perguntas do teste de perfil no cadastro
 
 [![](https://github.com/JulianaAlba/HackathonINPI/blob/master/Imagens/testecadastro.PNG)](https://blog.estacio.br/futuro-profissional/quiz-descobrir-o-seu-perfil-empreendedor/)
+
+
+
+### Encerramento Hackathon INPI Brasil - Instituto Nacional da Propriedade Industrial 
+
+O nosso time obteve a 6º colocação com o projeto Impulse, reconhecido em live de encerramento e recebeu o Prêmio de Pré-Aceleração.
+
+![](Imagens/live.png)
+
+
+
+### Clicando na imagem abaixo, é possível acessar a página com todos os finalistas e também visualizar nosso vídeo PITCH.
+
+[![](Imagens/finalistas.PNG)](https://www.gov.br/inpi/pt-br/hackathon/solucoes-finalistas)
 
 
